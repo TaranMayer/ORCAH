@@ -1,3 +1,6 @@
+# Original code authored by and copyright 18x18az
+
+# Changes made by and copyright Taran Mayer:
 # Added perms for new APIs
 
 """

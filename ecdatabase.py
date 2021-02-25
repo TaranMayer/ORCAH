@@ -1,3 +1,6 @@
+# Added a pair of functions to insert/delete things from a table in ways that weren't permitted with the existing functions
+# Added functionality for a new table
+
 """
 Provides 'Database' class:
 Low-level database interaction and helper functions.

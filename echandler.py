@@ -1,3 +1,6 @@
+# Original code authored by and copyright 18x18az
+
+# Changes made by and copyright Taran Mayer:
 # Updated if/else logic in the echandle function to account for the 5 additonal APIs I have added
 
 

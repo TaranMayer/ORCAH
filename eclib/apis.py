@@ -1,3 +1,6 @@
+# Original code authored by and copyright 18x18az
+
+# Changes made by and copyright Taran Mayer:
 # Added several new APIs for the new functionality of the event console regarding live matches
 
 

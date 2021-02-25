@@ -1,3 +1,5 @@
+# Added perms for new APIs
+
 """
 Names and permissions of Event Console user roles
 """

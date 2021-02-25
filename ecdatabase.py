@@ -1,3 +1,6 @@
+# Original code authored by and copyright 18x18az
+
+# Changes made by and copyright Taran Mayer:
 # Added a pair of functions to insert/delete things from a table in ways that weren't permitted with the existing functions
 # Added functionality for a new table
 
